@@ -89,9 +89,7 @@ The pipeline automatically generates diagnostic visualizations upon completion o
 * **Spatial Confusion Matrix:** Highlighting pixel-wise True Positives (Actual Floods correctly predicted).
 * **Forecast Maps:** A 1x5 Spatio-Temporal forecast grid comparing the input rainfall sequence, the actual ground truth flood map, and the AI's predicted risk heatmap.
 
-## 👨‍💻 Author
-
-**Nausheen Ansari**
-
+## 👨‍💻 Authors
+**Nausheen Ansari**, **Pilli Madhu**, & **Kanishka**
 * B.Tech Computer Science and Engineering (Artificial Intelligence & Machine Learning)
-* Manav Rachna International Institute of Research and Studies
+* Manav Rachna International Institute of Research and Studies (MRIIRS)
